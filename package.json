@@ -1,5 +1,5 @@
 {
-  "name": "june-md",
+  "name": "Mudali",
   "version": "2.5.9",
   "description": "WhatsApp Bot",
   "main": "index.js",
@@ -18,7 +18,7 @@
   "keywords": [
     "whatsapp-bot"
   ],
-  "author": "supreme",
+  "author": "Clinton's-bot",
   "license": "ISC",
   "dependencies": {
     "@adiwajshing/keyed-db": "^0.2.4",
