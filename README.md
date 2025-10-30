@@ -38,7 +38,7 @@
 4. HEROKU DEPLOY 
 <p style="text-align: center; font-size: 1.2em;">  
 <p align="center">
-<a href='https://dashboard.heroku.com/new?template=https://github.com/Vinpink2/JUNE-MD' target="_blank"><img alt='Heroku' src='https://img.shields.io/badge/-heroku ‎ deploy-FF004D?style=for-the-badge&logo=heroku&logoColor=white'/< width=150 height=28/p></a>
+<a href='https://dashboard.heroku.com/new?template=https://github.com/Vinpink2/JUNE-X' target="_blank"><img alt='Heroku' src='https://img.shields.io/badge/-heroku ‎ deploy-FF004D?style=for-the-badge&logo=heroku&logoColor=white'/< width=150 height=28/p></a>
 
 DEPLOY NOW ON ALL PANELS
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=The+bot+supports+deployment;on+all+Free+Panels+easily)](https://git.io/typing-svg)
