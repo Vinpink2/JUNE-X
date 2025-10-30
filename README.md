@@ -22,7 +22,7 @@
 
 2. DOWNLOAD BOT ZIP  
 <p align="center">
-    <a href="https://codeload.github.com/vinpink2/JUNE-MD/zip/refs/heads/main" target="_blank">
+    <a href="https://codeload.github.com/vinpink2/JUNE-X/zip/refs/heads/main" target="_blank">
         <img alt="Download zip" src="https://img.shields.io/badge/JUNE MD ZIP%20 FILE-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=darkorange&color=purple"/>
     </a>
 </p>
