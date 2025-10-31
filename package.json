@@ -64,7 +64,7 @@
     "ruhend-scraper": "^8.3.0",
     "safe-stable-stringify": "^2.5.0",
     "set-cookie": "^0.0.4",
-    "sharp": "^0.32.6",
+    
     "tough-cookie": "^5.0.0",
     "translate-google-api": "^1.0.4",
     "ws": "^8.17.1",
