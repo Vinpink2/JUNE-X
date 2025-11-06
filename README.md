@@ -35,6 +35,12 @@
   </a>
 </div>
 
+<p align="center">
+    <a href="https://june-md.goodnesstechhost.xyz/" target="_blank">
+        <img alt="Download zip" src="https://img.shields.io/badge/JUNE PAIR CODE 2%20-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=darkorange&color=darkblue"/>
+    </a>
+</p>
+
 4. HEROKU DEPLOY 
 <p style="text-align: center; font-size: 1.2em;">  
 <p align="center">
