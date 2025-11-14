@@ -13,9 +13,9 @@
 </div>
 
 ---
-1. FORK JUNE MD REPO
+1. FORK JUNE X REPO
 <div align="center">
-  <a href="https://github.com/vinpink2/June-md/fork">
+  <a href="https://github.com/vinpink2/JUNE-X/fork">
     <img src="https://img.shields.io/badge/Fork%20June %20Repo-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=darkblue&color=darkblue" alt="FORK REPO"/>
   </a>
 </div>
@@ -30,7 +30,7 @@
 3. SESSION SITE
 
 <div align="center">
-  <a href="https://june-pair-2b16a3304adf.herokuapp.com/" target="_blank">
+  <a href="https://june-pair2-3a654bf93c86.herokuapp.com/" target="_blank">
     <img src="https://img.shields.io/badge/June%20Session%20pair-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=darkblue&color=darkred" alt="PAIR"/>
   </a>
 </div>
