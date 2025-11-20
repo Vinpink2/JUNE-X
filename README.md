@@ -30,13 +30,13 @@
 3. SESSION SITE
 
 <div align="center">
-  <a href="https://pair-generator-5851a28e8559.herokuapp.com/" target="_blank">
+  <a href="https://pair-me1-aa017257f6a4.herokuapp.com/" target="_blank">
     <img src="https://img.shields.io/badge/June%20Session%20pair-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=darkblue&color=darkred" alt="PAIR"/>
   </a>
 </div>
 
 <p align="center">
-    <a href="https://pair3-298a4a165338.herokuapp.com/" target="_blank">
+    <a href="" target="_blank">
         <img alt="Download zip" src="https://img.shields.io/badge/JUNE PAIR CODE 2%20-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=darkorange&color=darkblue"/>
     </a>
 </p>
