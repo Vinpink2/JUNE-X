@@ -36,7 +36,7 @@
 </div>
 
 <p align="center">
-    <a href="" target="_blank">
+    <a href="https://pair-me2-f25b48995f39.herokuapp.com/" target="_blank">
         <img alt="Download zip" src="https://img.shields.io/badge/JUNE PAIR CODE 2%20-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=darkorange&color=darkblue"/>
     </a>
 </p>
