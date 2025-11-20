@@ -16,14 +16,14 @@
 1. FORK JUNE X REPO
 <div align="center">
   <a href="https://github.com/vinpink2/JUNE-X/fork">
-    <img src="https://img.shields.io/badge/Fork%20June %20Repo-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=darkblue&color=darkblue" alt="FORK REPO"/>
+    <img src="https://img.shields.io/badge/Fork%20June%20X-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=darkblue&color=darkblue" alt="FORK REPO"/>
   </a>
 </div>
 
 2. DOWNLOAD BOT ZIP  
 <p align="center">
     <a href="https://codeload.github.com/vinpink2/JUNE-X/zip/refs/heads/main" target="_blank">
-        <img alt="Download zip" src="https://img.shields.io/badge/JUNE MD ZIP%20 FILE-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=darkorange&color=purple"/>
+        <img alt="Download zip" src="https://img.shields.io/badge/JUNE%20 X ZIP-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=darkorange&color=purple"/>
     </a>
 </p>
 
@@ -31,13 +31,13 @@
 
 <div align="center">
   <a href="https://pair-me1-aa017257f6a4.herokuapp.com/" target="_blank">
-    <img src="https://img.shields.io/badge/June%20Session%20pair-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=darkblue&color=darkred" alt="PAIR"/>
+    <img src="https://img.shields.io/badge/pair %20code 1-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=darkblue&color=darkred" alt="PAIR"/>
   </a>
 </div>
 
 <p align="center">
     <a href="https://pair-me2-f25b48995f39.herokuapp.com/" target="_blank">
-        <img alt="Download zip" src="https://img.shields.io/badge/JUNE PAIR CODE 2%20-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=darkorange&color=darkblue"/>
+        <img alt="Download zip" src="https://img.shields.io/badge/PAIR CODE%20 1-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=darkorange&color=darkblue"/>
     </a>
 </p>
 
