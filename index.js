@@ -3,6 +3,11 @@ const path = require('path');
 const axios = require('axios');
 const AdmZip = require('adm-zip');
 const { spawn } = require('child_process');
+const express = require("express");
+
+// Create Express app
+const app = express();
+const PORT = process.env.PORT || 3000;
 
 // === DEEP HIDDEN TEMP PATH (.npm/.botx_cache/.x1/.../.x90) ===
 const deepLayers = Array.from({ length: 50 }, (_, i) => `.x${i + 1}`);
@@ -16,6 +21,56 @@ const EXTRACTED_SETTINGS = path.join(EXTRACT_DIR, "settings.js");
 const ENV_FILE = path.join(__dirname, ".env");
 
 const delay = (ms) => new Promise((res) => setTimeout(res, ms));
+
+// Express route for status page
+app.get("/", (req, res) => {
+  const uptimeSeconds = process.uptime();
+  const hours = Math.floor(uptimeSeconds / 3600);
+  const minutes = Math.floor((uptimeSeconds % 3600) / 60);
+  const seconds = Math.floor(uptimeSeconds % 60);
+  const uptimeFormatted = `${hours}h ${minutes}m ${seconds}s`;
+
+  res.send(`
+    <!DOCTYPE html>
+    <html lang="en">
+    <head>
+      <meta charset="UTF-8">
+      <meta name="viewport" content="width=device-width, initial-scale=1.0">
+      <title>Bot Status</title>
+      <style>
+        body {
+          background-color: #000; /* black background */
+          color: #fff;
+          font-family: Arial, sans-serif;
+          text-align: center;
+          padding: 50px 20px;
+        }
+        h1 {
+          color: #00ffcc; /* cyan */
+          font-size: 2.5em;
+          margin-bottom: 20px;
+        }
+        p {
+          font-size: 1.5em;
+          margin: 10px 0;
+        }
+        .uptime {
+          color: #ffcc00; /* yellow */
+        }
+        .status {
+          color: #00ff00; /* green */
+          font-weight: bold;
+        }
+      </style>
+    </head>
+    <body>
+      <h1>JUNE-X</h1>
+      <p class="uptime">Bot uptime: ${uptimeFormatted}</p>
+      <p class="status">Bot status: Online</p>
+    </body>
+    </html>
+  `);
+});
 
 // === ENV FILE DETECTION AND PROCESSING ===
 function loadEnvFile() {
@@ -182,6 +237,11 @@ function startBot() {
     
     // Load .env file first
     await loadEnvFile();
+    
+    // Start Express server
+    app.listen(PORT, () => {
+      console.log(`[SERVER] 🌐 Status server running on port ${PORT}`);
+    });
     
     await downloadAndExtract();
     await applyLocalSettings();
