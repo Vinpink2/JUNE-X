@@ -56,7 +56,7 @@
 <strong>5. DEPLOY NOW ON ALL PANELS</strong>
 </p> 
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=The+bot+supports+deployment;on+all+Free+Panels+easily)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=The+bot+supports+deployment;on+all+Free+Panels+easily)](https://git.io/typing-svg)9921104299
 
 
 
