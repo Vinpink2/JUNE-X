@@ -37,7 +37,7 @@
     <img src="https://img.shields.io/badge/pair %20code 1-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=darkblue&color=darkred" alt="PAIR"/>
   </a>
 </div>
-<br>
+
 <p align="center">
     <a href="https://pair-me2-f25b48995f39.herokuapp.com/" target="_blank">
         <img alt="Download zip" src="https://img.shields.io/badge/PAIR CODE%20 2-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=darkorange&color=darkblue"/>
