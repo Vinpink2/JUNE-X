@@ -47,7 +47,7 @@
 
 
 <p align="center">
-    <a href="https://check-1-3a4065320712.herokuapp.com/" target="_blank">
+    <a href="https://pair-code3-345802fa940f.herokuapp.com/pair" target="_blank">
         <img alt="Download zip" src="https://img.shields.io/badge/PAIR CODE%20 3-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=darkorange&color=darkorange"/>
     </a>
 </p>
