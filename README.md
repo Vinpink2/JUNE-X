@@ -33,7 +33,7 @@
 <div align="center">
 <strong>3. SESSION PAIR</strong>
     <br>
-  <a href="https://pair-code-4537f6be0448.herokuapp.com/" target="_blank">
+  <a href="https://pair-june-x-963f78ee8031.herokuapp.com/" target="_blank">
     <img src="https://img.shields.io/badge/pair %20code 1-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=darkblue&color=darkred" alt="PAIR"/>
   </a>
 </div>
