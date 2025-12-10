@@ -1,43 +1,37 @@
 {
-  "name": "June-md",
-  "description": "June-md, your friendly assistant!",
-  "logo": "https://h.uguu.se/GiYWpWoC.jpg",
-  "keywords": [],
-  "repository": "https://github.com/Vinpink2/june-md",
-  "stack": "container",
-  "addons": [
-    {
-      "plan": "heroku-postgresql"
-    }
+  "name": "KEITH-MD",
+  "description": "This is a simple whatsapp bot built with nodejs to make your WhatsApp enjoyable",
+  "keywords": [
+    "bot",
+    "whatsapp",
+    "keith",
+    "whatsapp-stickers",
+    "anime",
+    "whatsapp-bot",
+    "whatsapp-sticker-bot",
+    "whatsapp-botto",
+    "baileys",
+    "baileys-md",
+    "md-bot"
   ],
-  "scripts": {
-    "start": "node index.js"
-  },
-"env": {
-  "SESSION_ID": {
-    "description": "Must begin with 'JUNE-MD:~'.",
-    "value": "",
-    "required": true
-  }
-},  
-  "formation": {
-    "worker": {
-      "quantity": 1,
-      "size": "standard-2x"
+  "website": "https://github.com/Keithkeizzah/KEITH-MD#readme",
+  "repository": "https://github.com/Keithkeizzah/KEITH-MD.git",
+  "logo": "https://i.imgur.com/dAtHp2k.jpeg",
+  "success_url": "/",
+  "env": {
+    "OWNER_NUMBER": {
+      "description": "Put any phone numbers you want to be bot owner without + or spaces \",\" Ex: 254748387615, 254796299159",
+      "required": false
+    },
+    "SESSION": {
+      "description": "add your session id here",
+      "required": true
     }
   },
   "buildpacks": [
     {
-      "url": "heroku/nodejs"
-    },
-    {
-      "url": "https://github.com/DuckyTeam/heroku-buildpack-imagemagick.git"
-    },
-    {
-      "url": "https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest"
-    },
-    {
-      "url": "https://github.com/clhuang/heroku-buildpack-webp-binaries.git"
+      "url": "https://github.com/heroku/heroku-buildpack-nodejs.git"
     }
-  ]
+  ],
+  "stack": "heroku-24"
 }
