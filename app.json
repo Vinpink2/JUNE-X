@@ -1,9 +1,9 @@
 {
   "name": "JUNEX",
-  "description": "JUNEX, your friendly assistant!",
-  "logo": "https://i.ibb.co/nqsRcKDB/Xploader4.jpg",
+  "description": "June-x, your friendly assistant!",
+  "logo": "https://h.uguu.se/GiYWpWoC.jpg",
   "keywords": [],
-  "repository": "https://github.com/Dark-Xploit/CypherX",
+  "repository": "https://github.com/Vinpink2/JUNE-X",
   "stack": "container",
   "addons": [
     {
@@ -15,18 +15,17 @@
   },
 "env": {
   "SESSION_ID": {
-    "description": "Must begin with 'JUNE-X:~'.",
+    "description": "Must begin with 'JUNE-MD:~'.",
     "value": "",
-    "required": false
+    "required": true
   }
-},
-"formation": {
-  "worker": {
-    "quantity": 1,
-    "size": "eco"
-  }
-},
-  
+},  
+  "formation": {
+    "worker": {
+      "quantity": 1,
+      "size": "basic"
+    }
+  },
   "buildpacks": [
     {
       "url": "heroku/nodejs"
