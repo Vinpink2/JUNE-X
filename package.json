@@ -6,6 +6,7 @@
   "scripts": {
     "start": "node index.js",
     "start:optimized": "node --max-old-space-size=512 --optimize-for-size --gc-interval=100 index.js",
+    "supreme": "pm2 start index.js --attach --max-memory-restart 490M",
     "cleanup": "node cleanup.js",
     "reset-session": "node reset-session.js",
     "start:clean": "npm run cleanup && npm run start:optimized",
