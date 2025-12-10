@@ -1,37 +1,37 @@
 {
-  "name": "JUNE-X",
-  "description": "This is a simple whatsapp bot built with nodejs to make your WhatsApp enjoyable",
-  "keywords": [
-    "bot",
-    "whatsapp",
-    "keith",
-    "whatsapp-stickers",
-    "anime",
-    "whatsapp-bot",
-    "whatsapp-sticker-bot",
-    "whatsapp-botto",
-    "baileys",
-    "baileys-md",
-    "md-bot"
-  ],
-  "website": "https://github.com/Keithkeizzah/KEITH-MD#readme",
-  "repository": "https://github.com/Keithkeizzah/KEITH-MD.git",
-  "logo": "https://i.imgur.com/dAtHp2k.jpeg",
-  "success_url": "/",
-  "env": {
-    "OWNER_NUMBER": {
-      "description": "Put any phone numbers you want to be bot owner without + or spaces \",\" Ex: 254748387615, 254796299159",
-      "required": false
-    },
-    "SESSION_ID": {
-      "description": "add your session id here",
-      "required": true
+  "name": "JUNEX",
+  "description": "JUNEX, your friendly assistant!",
+  "logo": "https://i.ibb.co/nqsRcKDB/Xploader4.jpg",
+  "keywords": [],
+  "repository": "https://github.com/Dark-Xploit/CypherX",
+  "stack": "container",
+  "addons": [
+    {
+      "plan": "heroku-postgresql"
     }
+  ],
+  "scripts": {
+    "start": "node index.js"
   },
+"env": {
+  "SESSION_ID": {
+    "description": "Must begin with 'JUNE-X:~'.",
+    "value": "",
+    "required": false
+  }
+},
   "buildpacks": [
     {
-      "url": "https://github.com/heroku/heroku-buildpack-nodejs.git"
+      "url": "heroku/nodejs"
+    },
+    {
+      "url": "https://github.com/DuckyTeam/heroku-buildpack-imagemagick.git"
+    },
+    {
+      "url": "https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest"
+    },
+    {
+      "url": "https://github.com/clhuang/heroku-buildpack-webp-binaries.git"
     }
-  ],
-  "stack": "heroku-24"
+  ]
 }
