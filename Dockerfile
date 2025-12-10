@@ -1,34 +1,25 @@
+FROM node:lts
 
-FROM node:lts-buster
+# Install dependencies
+RUN apt-get update && apt-get install -y --no-install-recommends ffmpeg imagemagick webp && apt-get clean
+
+# Set working directory
 WORKDIR /app
 
-RUN sed -i 's|http://deb.debian.org/debian|http://archive.debian.org/debian|g' /etc/apt/sources.list \
- && sed -i '/security/d' /etc/apt/sources.list \
- && apt-get -o Acquire::Check-Valid-Until=false update \
- && apt-get install -y \
-    ffmpeg \
-    imagemagick \
-    webp \
-    git \
-    curl \
- && apt-get upgrade -y \
- && rm -rf /var/lib/apt/lists/*
-
-RUN npm install -g pm2
-
-
+# Copy package files
 COPY package*.json ./
 
-RUN npm install
+# Install dependencies
+RUN npm install && npm cache clean --force
 
+# Copy application code
 COPY . .
 
-RUN mkdir -p /app/session
-
-ENV NODE_ENV=production
-ENV PORT=3000
-
+# Expose port
 EXPOSE 3000
 
-CMD ["pm2-runtime", "start", "index.js"]
+# Set environment
+ENV NODE_ENV production
 
+# Run command
+CMD ["npm", "run", "start", "index.js"]
