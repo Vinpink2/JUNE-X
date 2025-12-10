@@ -23,7 +23,7 @@
       "description": "Put any phone numbers you want to be bot owner without + or spaces \",\" Ex: 254748387615, 254796299159",
       "required": false
     },
-    "SESSION": {
+    "SESSION_ID": {
       "description": "add your session id here",
       "required": true
     }
