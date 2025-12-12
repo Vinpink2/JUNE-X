@@ -13,12 +13,13 @@
   </a> 
 </div>
 
----
-<div align="center">
-<strong>1. FORK JUNE REPO</strong>
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=the+bot+supports+deployment;on+all+free+panels+easily)](https://git.io/typing-svg)
+
+<div align="center">    
+<strong>1. DEPLOY JUNE-X </strong>
     <br>
-  <a href="https://github.com/vinpink2/JUNE-X/fork">
-    <img src="https://img.shields.io/badge/Fork%20June%20X-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=darkblue&color=darkblue" alt="FORK REPO"/>
+  <a href="https://auth-ivory-delta.vercel.app/">
+    <img src="https://img.shields.io/badge/Deploy%20June-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=darkblue&color=darkgreen" alt="FORK REPO"/>
   </a>
 </div>
 <br>
@@ -29,7 +30,6 @@
         <img alt="Download zip" src="https://img.shields.io/badge/JUNE%20 X ZIP-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=darkorange&color=purple"/>
     </a>
 </p>
-
 <div align="center">
 <strong>3. SESSION PAIR</strong>
     <br>
@@ -38,33 +38,12 @@
   </a>
 </div>
 <br>
-
-<p align="center">
-    <a href="https://paie-with-june-x-bot-e2c4992d3683.herokuapp.com/" target="_blank">
-        <img alt="Download zip" src="https://img.shields.io/badge/PAIR CODE%20 2-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=darkorange&color=darkblue"/>
-    </a>
-</p>
-
-
 <p align="center">
     <a href="https://pair-code3-345802fa940f.herokuapp.com/pair" target="_blank">
-        <img alt="Download zip" src="https://img.shields.io/badge/PAIR CODE%20 3-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=darkorange&color=darkorange"/>
+        <img alt="Download zip" src="https://img.shields.io/badge/PAIR CODE%20 2-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=darkorange&color=darkorange"/>
     </a>
 </p>
 
-<p align="center">
-<strong>4. DEPLOY TO HEROKU</strong>
-    <br>
-    <a href="https://dashboard.heroku.com/new?template=https://github.com/vinpink2/JUNE-X" target="_blank">
-        <img alt="Deploy to heroku" src="https://img.shields.io/badge/Deploy Now-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=purple&color=purple"/>
-    </a>
-</p>
-
-<p align= "center">
-<strong>5. DEPLOY NOW ON ALL PANELS</strong>
-</p> 
-
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=The+bot+supports+deployment;on+all+Free+Panels+easily)](https://git.io/typing-svg)
 
 
 
