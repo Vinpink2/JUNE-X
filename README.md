@@ -16,22 +16,15 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=the+bot+supports+deployment;on+all+free+panels+easily)](https://git.io/typing-svg)
 
 <div align="center">    
-<strong>1. DEPLOY JUNE-X </strong>
+<strong> DEPLOY JUNE-X </strong>
     <br>
   <a href="https://auth-ivory-delta.vercel.app/">
     <img src="https://img.shields.io/badge/Deploy%20June-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=darkblue&color=darkgreen" alt="FORK REPO"/>
   </a>
 </div>
 <br>
-<p align="center">  
-<strong>2. DOWNLOAD BOT ZIP</strong>
-    <br>
-    <a href="https://codeload.github.com/vinpink2/JUNE-X/zip/refs/heads/main" target="_blank">
-        <img alt="Download zip" src="https://img.shields.io/badge/JUNE%20 X ZIP-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=darkorange&color=purple"/>
-    </a>
-</p>
 <div align="center">
-<strong>3. SESSION PAIR</strong>
+<strong> SESSION PAIRS </strong>
     <br>
   <a href="https://pair-with-june-bot-1c6521e869be.herokuapp.com/" target="_blank">
     <img src="https://img.shields.io/badge/pair %20code 1-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=darkblue&color=darkred" alt="PAIR"/>
@@ -44,6 +37,14 @@
     </a>
 </p>
 
+
+<p align="center">  
+<strong> DOWNLOAD ZIP </strong>
+    <br>
+    <a href="https://codeload.github.com/vinpink2/JUNE-X/zip/refs/heads/main" target="_blank">
+        <img alt="Download zip" src="https://img.shields.io/badge/JUNE%20 X%20 BOT ZIP-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=darkorange&color=blue"/>
+    </a>
+</p>
 
 
 
