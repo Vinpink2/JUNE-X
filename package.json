@@ -1,6 +1,6 @@
 {
   "name": "June-x",
-  "version": "2.6.4",
+  "version": "2.6.5",
   "description": "WhatsApp Bot",
   "main": "index.js",
   "scripts": {
@@ -29,6 +29,7 @@
     "awesome-phonenumber": "^5.9.0",
     "axios": "^1.8.4",
     "chalk": "^4.1.2",
+    "crypto": "^1.0.1",
     "adm-zip": "^0.5.16",
     "cheerio": "^1.0.0-rc.12",
     "cookie": "^0.5.0",
@@ -64,6 +65,7 @@
     "request": "^2.88.2",
     "ruhend-scraper": "^8.3.0",
     "safe-stable-stringify": "^2.5.0",
+    "stream": "^0.0.2",
     "set-cookie": "^0.0.4",
     "webp-converter": "latest",
     "tough-cookie": "^5.0.0",
