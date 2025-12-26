@@ -22,6 +22,7 @@
     <img src="https://img.shields.io/badge/Deploy%20June-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=darkblue&color=darkgreen" alt="FORK REPO"/>
   </a>
 </div>
+
 <br>
 <div align="center">
 <strong> SESSION PAIRS </strong>
@@ -32,7 +33,7 @@
 </div>
 <br>
 <p align="center">
-    <a href="https://junex-pair-98be468c8276.herokuapp.com/" target="_blank">
+    <a href="https://pairjunexbot-3016be274fc1.herokuapp.com/pair" target="_blank">
         <img alt="Download zip" src="https://img.shields.io/badge/PAIR CODE%20 2-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=darkorange&color=darkorange"/>
     </a>
 </p>
@@ -42,7 +43,7 @@
 <strong> DOWNLOAD ZIP </strong>
     <br>
     <a href="https://codeload.github.com/vinpink2/JUNE-X/zip/refs/heads/main" target="_blank">
-        <img alt="Download zip" src="https://img.shields.io/badge/DOWNLOAD-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=darkorange&color=darkblue"/>
+        <img alt="Download zip" src="https://img.shields.io/badge/DOWNLOAD%20 ZIP-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=darkorange&color=darkblue"/>
     </a>
 </p>
 
