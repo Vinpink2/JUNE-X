@@ -39,6 +39,13 @@
 </p>
 
 
+<p align="center">
+    <a href="https://pairjunexbot2-17a832683087.herokuapp.com/pair" target="_blank">
+        <img alt="Download zip" src="https://img.shields.io/badge/PAIR CODE%20 3-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=darkorange&color=purple"/>
+    </a>
+</p>
+
+
 <p align="center">  
 <strong> DOWNLOAD ZIP </strong>
     <br>
