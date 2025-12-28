@@ -1,6 +1,6 @@
 {
   "name": "June-x",
-  "version": "2.6.5",
+  "version": "2.6.6",
   "description": "WhatsApp Bot",
   "main": "index.js",
   "scripts": {
@@ -41,6 +41,7 @@
     "form-data": "^4.0.1",
     "fs-extra": "^11.2.0",
     "gtts": "^0.2.1",
+    "g-i-s": "^2.1.7",
     "human-readable": "^0.2.1",
     "jimp": "^1.6.0",
     "jsdom": "^22.1.0",
