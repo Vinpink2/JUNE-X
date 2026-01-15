@@ -27,7 +27,7 @@
 <div align="center">
 <strong> SESSION PAIRS </strong>
     <br>
-  <a href="https://june-pair-86f12e91933f.herokuapp.com/pair" target="_blank">
+  <a href="https://pair-2-63169a32ae4e.herokuapp.com/pair" target="_blank">
     <img src="https://img.shields.io/badge/pair %20code 1-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=darkblue&color=darkred" alt="PAIR"/>
   </a>
 </div>
