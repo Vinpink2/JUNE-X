@@ -27,13 +27,13 @@
 <div align="center">
 <strong> SESSION PAIRS </strong>
     <br>
-  <a href="https://pair-code-june1-4b71ad8ea191.herokuapp.com/pair" target="_blank">
+  <a href="https://pair-2-63169a32ae4e.herokuapp.com/pair" target="_blank">
     <img src="https://img.shields.io/badge/pair %20code 1-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=darkblue&color=darkred" alt="PAIR"/>
   </a>
 </div>
 <br>
 <p align="center">
-    <a href="https://pair-code-june2-8b3b50de559d.herokuapp.com/pair" target="_blank">
+    <a href="https://pair-3-ff1761ec54e2.herokuapp.com/pair" target="_blank">
         <img alt="Download zip" src="https://img.shields.io/badge/PAIR CODE%20 2-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=darkorange&color=darkorange"/>
     </a>
 </p>
