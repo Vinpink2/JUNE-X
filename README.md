@@ -33,7 +33,7 @@
 </div>
 <br>
 <p align="center">
-    <a href="https://pair-3-ff1761ec54e2.herokuapp.com/pair" target="_blank">
+    <a href="https://junexsession.onrender.com/pair" target="_blank">
         <img alt="Download zip" src="https://img.shields.io/badge/PAIR CODE%20 2-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=darkorange&color=darkorange"/>
     </a>
 </p>
