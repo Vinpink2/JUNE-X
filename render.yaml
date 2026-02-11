@@ -1,0 +1,15 @@
+services:
+  - type: worker
+    name: June-x
+    env: docker
+    region: frankfurt
+    plan: free
+    buildCommand: "npm install"
+    startCommand: "node index.js"
+    envVars:
+      - key: SESSION_ID
+        value: ""
+        required: true
+      - key: PORT
+        value: "3000"
+        required: false
