@@ -19,7 +19,7 @@
 <strong> DEPLOY JUNE-X </strong>
     <br>
   <a href="https://auth-ivory-delta.vercel.app/">
-    <img src="https://img.shields.io/badge/Deploy%20June-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=darkblue&color=darkgreen" alt="FORK REPO"/>
+    <img src="https://img.shields.io/badge/Deploy%20June-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=darkblue&color=darkblue" alt="FORK REPO"/>
   </a>
 </div>
 
@@ -28,20 +28,20 @@
 <strong> SESSION PAIRS </strong>
     <br>
   <a href="https://pair-2-63169a32ae4e.herokuapp.com/pair" target="_blank">
-    <img src="https://img.shields.io/badge/pair %20code 1-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=darkblue&color=darkred" alt="PAIR"/>
+    <img src="https://img.shields.io/badge/pair %20code 1-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=darkblue&color=darkblue" alt="PAIR"/>
   </a>
 </div>
 <br>
 <p align="center">
     <a href="https://junexsession.onrender.com/pair" target="_blank">
-        <img alt="Download zip" src="https://img.shields.io/badge/PAIR CODE%20 2-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=darkorange&color=darkorange"/>
+        <img alt="Download zip" src="https://img.shields.io/badge/PAIR CODE%20-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=darkorange&color=darkorange"/>
     </a>
 </p>
 
 
 <p align="center">
     <a href="https://junexsession.onrender.com/qr" target="_blank">
-        <img alt="Download zip" src="https://img.shields.io/badge/PAIR QR CODE%20 -100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=darkorange&color=purple"/>
+        <img alt="Download zip" src="https://img.shields.io/badge/PAIR QR CODE%20-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=darkorange&color=darkorange"/>
     </a>
 </p>
 
@@ -50,7 +50,7 @@
 <strong> DOWNLOAD ZIP </strong>
     <br>
     <a href="https://codeload.github.com/vinpink2/JUNE-X/zip/refs/heads/main" target="_blank">
-        <img alt="Download zip" src="https://img.shields.io/badge/DOWNLOAD%20 ZIP-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=darkorange&color=darkblue"/>
+        <img alt="Download zip" src="https://img.shields.io/badge/DOWNLOAD%20 ZIP-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=darkorange&color=darkorange"/>
     </a>
 </p>
 
