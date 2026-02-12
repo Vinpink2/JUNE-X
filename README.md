@@ -50,7 +50,7 @@
 <strong> DOWNLOAD ZIP </strong>
     <br>
     <a href="https://codeload.github.com/vinpink2/JUNE-X/zip/refs/heads/main" target="_blank">
-        <img alt="Download zip" src="https://img.shields.io/badge/ZIP-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=darkorange&color=darkorange"/>
+        <img alt="Download zip" src="https://img.shields.io/badge/Souce Code-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=darkorange&color=darkorange"/>
     </a>
 </p>
 
