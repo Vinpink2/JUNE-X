@@ -34,14 +34,14 @@
 <br>
 <p align="center">
     <a href="https://junexsession.onrender.com/pair" target="_blank">
-        <img alt="Download zip" src="https://img.shields.io/badge/PAIR CODE%20-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=darkorange&color=darkorange"/>
+        <img alt="Download zip" src="https://img.shields.io/badge/pair code2-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=darkorange&color=darkorange"/>
     </a>
 </p>
 
 
 <p align="center">
     <a href="https://junexsession.onrender.com/qr" target="_blank">
-        <img alt="Download zip" src="https://img.shields.io/badge/PAIR QR CODE%20-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=darkorange&color=darkorange"/>
+        <img alt="Download zip" src="https://img.shields.io/badge/QR Code3-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=darkorange&color=darkorange"/>
     </a>
 </p>
 
@@ -50,7 +50,7 @@
 <strong> DOWNLOAD ZIP </strong>
     <br>
     <a href="https://codeload.github.com/vinpink2/JUNE-X/zip/refs/heads/main" target="_blank">
-        <img alt="Download zip" src="https://img.shields.io/badge/DOWNLOAD%20 ZIP-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=darkorange&color=darkorange"/>
+        <img alt="Download zip" src="https://img.shields.io/badge/ZIP-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=darkorange&color=darkorange"/>
     </a>
 </p>
 
