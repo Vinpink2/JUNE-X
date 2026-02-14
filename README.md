@@ -23,34 +23,23 @@
   </a>
 </div>
 
-<br>
-<div align="center">
-<strong> SESSION PAIRS </strong>
-    <br>
-  <a href="https://pair-2-63169a32ae4e.herokuapp.com/pair" target="_blank">
-    <img src="https://img.shields.io/badge/pair %20code 1-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=darkblue&color=darkblue" alt="PAIR"/>
-  </a>
-</div>
-<br>
 <p align="center">
-    <a href="https://junexsession.onrender.com/pair" target="_blank">
+    <a href="" target="_blank">
         <img alt="Download zip" src="https://img.shields.io/badge/pair code2-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=darkorange&color=darkorange"/>
     </a>
 </p>
 
 
 <p align="center">
-    <a href="https://junexsession.onrender.com/qr" target="_blank">
-        <img alt="Download zip" src="https://img.shields.io/badge/QR Code3-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=darkorange&color=darkorange"/>
+    <a href="https://jun-x-159decad06d4.herokuapp.com/" target="_blank">
+        <img alt="Download zip" src="https://img.shields.io/badge/Pair code 2-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=darkorange&color=darkorange"/>
     </a>
 </p>
 
 
 <p align="center">  
-<strong> DOWNLOAD ZIP </strong>
-    <br>
-    <a href="https://codeload.github.com/vinpink2/JUNE-X/zip/refs/heads/main" target="_blank">
-        <img alt="Download zip" src="https://img.shields.io/badge/Souce Code-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=darkorange&color=darkorange"/>
+    <a href="https://junexsession.onrender.com/pair" target="_blank">
+        <img alt="pair alt" src="https://img.shields.io/badge/Pair Code 3-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=darkorange&color=darkorange"/>
     </a>
 </p>
 
