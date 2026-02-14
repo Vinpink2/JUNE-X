@@ -24,8 +24,8 @@
 </div>
 
 <p align="center">
-    <a href="" target="_blank">
-        <img alt="Download zip" src="https://img.shields.io/badge/pair code2-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=darkorange&color=darkorange"/>
+    <a href="https://jun-x-159decad06d4.herokuapp.com/pair" target="_blank">
+        <img alt="Download zip" src="https://img.shields.io/badge/pair code 1-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=darkorange&color=darkorange"/>
     </a>
 </p>
 
