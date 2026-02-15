@@ -1,6 +1,6 @@
 {
   "name": "june-x",
-  "version": "2.6.4",
+  "version": "2.7.0",
   "description": "WhatsApp Bot",
   "main": "index.js",
   "scripts": {
@@ -29,6 +29,7 @@
     "adm-zip": "^0.5.16",
     "awesome-phonenumber": "^5.9.0",
     "axios": "^1.8.4",
+    "better-sqlite3": "^9.4.3",
     "chalk": "^4.1.2",
     "cheerio": "^1.0.0-rc.12",
     "cookie": "^0.5.0",
