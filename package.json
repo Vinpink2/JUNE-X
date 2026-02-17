@@ -43,7 +43,6 @@
     "fs-extra": "^11.2.0",
     "g-i-s": "^2.1.7",
     "gtts": "^0.2.1",
-    "gifted-btns": "*",
     "human-readable": "^0.2.1",
     "jimp": "^1.6.0",
     "jsdom": "^22.1.0",
