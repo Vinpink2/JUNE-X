@@ -24,14 +24,14 @@
 </div>
 
 <p align="center">
-    <a href="https://jun-x-159decad06d4.herokuapp.com/pair" target="_blank">
+    <a href="https://june-xp-e60e361ee9e3.herokuapp.com/pair" target="_blank">
         <img alt="Download zip" src="https://img.shields.io/badge/pair code 1-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=darkorange&color=darkorange"/>
     </a>
 </p>
 
 
 <p align="center">
-    <a href="https://jun-x-159decad06d4.herokuapp.com/" target="_blank">
+    <a href="https://june-xp-e60e361ee9e3.herokuapp.com/pairhttps://june-xp-e60e361ee9e3.herokuapp.com" target="_blank">
         <img alt="Download zip" src="https://img.shields.io/badge/Pair code 2-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=darkorange&color=darkorange"/>
     </a>
 </p>
