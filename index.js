@@ -1,5 +1,5 @@
 /*
- * Protected by ROMEK JA OBFUSCATOR
+ * Protected by @✮⃝𝐒ᵘᵖʳᵉᵐᵉ (Obf)
  * Protection Level: Advanced
  * Generated: 2026-03-01T18:32:44.966Z
  * Warning: Unauthorized reverse engineering is prohibited
