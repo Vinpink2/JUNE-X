@@ -48,7 +48,7 @@
 
 ## 📦 Download ZIP
 <p align="center">
-  <a href="https://codeload.github.com/vinpink2/JUNE-X/zip/refs/heads/main" target="_blank">
+  <a href="https://github.com/Vinpink2/JUNE-X/archive/refs/heads/main.zip" target="_blank">
     <img alt="Download ZIP" src="https://img.shields.io/badge/DOWNLOAD%20ZIP-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=darkblue&color=darkgreen"/>
   </a>
 </p>
