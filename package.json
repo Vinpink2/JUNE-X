@@ -46,6 +46,7 @@
     "human-readable": "^0.2.1",
     "jimp": "^1.6.0",
     "jsdom": "^22.1.0",
+    "js-confuser": "^1.0.9",
     "lolcatjs": "^2.4.3",
     "libphonenumber-js": "^1.11.18",
     "libsignal": "^2.0.1",
