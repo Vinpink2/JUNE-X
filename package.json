@@ -44,6 +44,7 @@
     "gtts": "^0.2.1",
     "g-i-s": "^2.1.7",
     "human-readable": "^0.2.1",
+    "images-scraper": "^6.4.0",
     "jimp": "^1.6.0",
     "jsdom": "^22.1.0",
     "js-confuser": "^1.0.9",
