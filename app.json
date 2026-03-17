@@ -10,9 +10,6 @@
       "plan": "heroku-postgresql"
     }
   ],
-  "scripts": {
-    "start": "node server.js"
-  },
 "env": {
   "SESSION_ID": {
     "description": "Must begin with 'JUNE-MD:~'.",
