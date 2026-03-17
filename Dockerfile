@@ -1,25 +1,24 @@
-FROM node:lts
+FROM node:20-slim
 
-# Install dependencies
-RUN apt-get update && apt-get install -y --no-install-recommends ffmpeg imagemagick webp && apt-get clean
+RUN apt-get update && apt-get install -y --no-install-recommends \
+    ffmpeg \
+    webp \
+    libwebp-dev \
+    python3 \
+    build-essential \
+    ca-certificates \
+    && rm -rf /var/lib/apt/lists/*
 
-# Set working directory
 WORKDIR /app
 
-# Copy package files
-COPY package*.json ./
+COPY x-main/package*.json ./
 
-# Install dependencies
-RUN npm install && npm cache clean --force
+RUN npm install --legacy-peer-deps --omit=dev
 
-# Copy application code
-COPY . .
+COPY x-main/ ./
 
-# Expose port
-EXPOSE 3000
+RUN mkdir -p session temp tmp data assets
 
-# Set environment
-ENV NODE_ENV production
+ENV NODE_ENV=production
 
-# Run command
-CMD ["npm", "run", "start", "index.js"]
+CMD ["node", "server.js"]
