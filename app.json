@@ -11,7 +11,7 @@
     }
   ],
   "scripts": {
-    "start": "node index.js"
+    "start": "node server.js"
   },
 "env": {
   "SESSION_ID": {
