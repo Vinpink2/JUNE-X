@@ -25,7 +25,7 @@
     "@ffmpeg/ffmpeg": "^0.12.15",
     "@hapi/boom": "^10.0.1",
     "@types/node": "^20.0.0",
-    "@whiskeysockets/baileys": "^v7.0.0.rc.9",
+    "@whiskeysockets/baileys": "^v7.0.0-rc.9",
     "awesome-phonenumber": "^5.9.0",
     "axios": "^1.8.4",
     "chalk": "^4.1.2",
@@ -51,7 +51,7 @@
     "libphonenumber-js": "^1.11.18",
     "libsignal": "^2.0.1",
     "link-preview-js": "^3.0.5",
-    "moment-timezone": "^0.5.45",
+    "moment-timezone": "^0.5.43",
     "mumaker": "^2.0.0",
     "node-cache": "^5.1.2",
     "node-fetch": "^2.7.0",
@@ -87,7 +87,7 @@
     "jimp": "^1.6.0"
   },
   "engines": {
-    "node": ">=18.0.0",
+    "node": ">=20.0.0",
     "npm": ">=9.0.0"
   }
 }
