@@ -11,11 +11,11 @@ RUN apt-get update && apt-get install -y --no-install-recommends \
 
 WORKDIR /app
 
-COPY x-main/package*.json ./
+COPY /package*.json ./
 
 RUN npm install --legacy-peer-deps --omit=dev
 
-COPY x-main/ ./
+COPY  ./
 
 RUN mkdir -p session temp tmp data assets
 
