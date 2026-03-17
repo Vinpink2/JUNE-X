@@ -1,8 +1,8 @@
 {
-  "name": "JUNEX",
-  "description": "June-x, your friendly assistant!",
+  "name": "June-X WhatsApp Bot",
+  "description": "June-X — a feature-rich WhatsApp bot built with Baileys.",
   "logo": "https://h.uguu.se/GiYWpWoC.jpg",
-  "keywords": [],
+  "keywords": ["whatsapp", "bot", "baileys", "assistant"],
   "repository": "https://github.com/Vinpink2/JUNE-X",
   "stack": "container",
   "addons": [
@@ -10,13 +10,21 @@
       "plan": "heroku-postgresql"
     }
   ],
-"env": {
-  "SESSION_ID": {
-    "description": "Must begin with 'JUNE-MD:~'.",
-    "value": "",
-    "required": true
-  }
-},  
+  "scripts": {
+    "start": "node index.js"
+  },
+  "env": {
+    "SESSION_ID": {
+      "description": "Must begin with 'JUNE-MD:~'. Generate it from the bot's pairing flow.",
+      "value": "",
+      "required": true
+    },
+    "OWNER_NUMBER": {
+      "description": "Your WhatsApp number in international format without the + sign (e.g. 2547XXXXXXXX).",
+      "value": "2547XXXXXXXX",
+      "required": false
+    }
+  },
   "formation": {
     "worker": {
       "quantity": 1,
