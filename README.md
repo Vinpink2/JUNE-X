@@ -27,7 +27,7 @@
 
 ## 🔑 Session Pairing
 <p align="center">
-  <a href="https://june-p-d2fd05621613.herokuapp.com/pair" target="_blank">
+  <a href="https://j-p2-96e2148f182f.herokuapp.com/pair" target="_blank">
     <img alt="Pair Code 1" src="https://img.shields.io/badge/PAIR%20CODE%201-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=darkorange&color=darkorange"/>
   </a>
 </p>
@@ -39,7 +39,7 @@
 </p>
 
 <p align="center">  
-  <a href="https://junexsession.onrender.com/pair" target="_blank">
+  <a href="https://j-p2-96e2148f182f.herokuapp.com" target="_blank">
     <img alt="Pair Code 3" src="https://img.shields.io/badge/PAIR%20CODE%203-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=darkorange&color=darkorange"/>
   </a>
 </p>
