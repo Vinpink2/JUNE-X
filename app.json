@@ -21,7 +21,7 @@
     },
     "OWNER_NUMBER": {
       "description": "Your WhatsApp number in international format without the + sign (e.g. 2547XXXXXXXX).",
-      "value": "2547XXXXXXXX",
+      "value": "25479021944",
       "required": false
     }
   },
