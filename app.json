@@ -1,48 +1,26 @@
 {
-  "name": "June-X WhatsApp Bot",
-  "description": "June-X — a feature-rich WhatsApp bot built with Baileys.",
-  "logo": "https://files.catbox.moe/rpju62.jpg",
-  "keywords": ["whatsapp", "bot", "baileys", "assistant"],
-  "repository": "https://github.com/Vinpink2/JUNE-X",
-  "stack": "container",
-  "addons": [
+  "name": "June X Ultra",
+  "description": "June X Ultra - WhatsApp MD Multi-Device Bot powered by Baileys",
+  "repository": "",
+  "logo": "",
+  "keywords": ["whatsapp", "baileys", "bot", "node", "md", "june-ultra"],
+  "stack": "heroku-24",
+  "buildpacks": [
     {
-      "plan": "heroku-postgresql"
+      "url": "https://github.com/heroku/heroku-buildpack-nodejs.git"
     }
   ],
-  "scripts": {
-    "start": "node index.js"
-  },
-  "env": {
-    "SESSION_ID": {
-      "description": "Must begin with 'JUNE-MD:~'. Generate it from the bot's pairing flow.",
-      "value": "",
-      "required": true
-    },
-    "OWNER_NUMBER": {
-      "description": "Your WhatsApp number in international format without the + sign (e.g. 2547XXXXXXXX).",
-      "value": "25479021944",
-      "required": false
-    }
-  },
   "formation": {
-    "worker": {
+    "web": {
       "quantity": 1,
       "size": "basic"
     }
   },
-  "buildpacks": [
-    {
-      "url": "heroku/nodejs"
-    },
-    {
-      "url": "https://github.com/DuckyTeam/heroku-buildpack-imagemagick.git"
-    },
-    {
-      "url": "https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest"
-    },
-    {
-      "url": "https://github.com/clhuang/heroku-buildpack-webp-binaries.git"
+  "env": {
+    "SESSION_ID": {
+      "description": "June X Ultra session string. Accepted formats: JUNE-MD:~<base64>, Ultra-X:~<base64>, June-Ultra:~<base64>",
+      "required": false,
+      "value": ""
     }
-  ]
+  }
 }
