@@ -1,5 +1,5 @@
 <div align="center"> 
-  <strong>JUNE X</strong>
+  <strong>JUNE-X ULTRA</strong>
   <br>
   <a href="https://git.io/typing-svg"> 
     <img src="https://readme-typing-svg.demolab.com?font=Rockwell&size=50&pause=1000&color=33ff00&center=true&width=910&height=100&lines=June-Official;Multi+Device+Whatsapp+Bot;Made+by+Supreme" alt="Typing SVG" />
@@ -16,7 +16,7 @@
 
 ---
 
-## 🚀 Deploy JUNE-X
+##  DEPLOY JUNE-X
 <div align="center">    
   <a href="https://auth-ivory-delta.vercel.app/">
     <img src="https://img.shields.io/badge/Deploy%20June-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=darkblue&color=darkblue" alt="Deploy June-X"/>
@@ -25,7 +25,7 @@
 
 ---
 
-## 🔑 Session Pairing
+##  SESSION PAIRING
 <p align="center">
   <a href="https://j-p2-96e2148f182f.herokuapp.com/pair" target="_blank">
     <img alt="Pair Code 1" src="https://img.shields.io/badge/PAIR%20CODE%201-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=darkorange&color=darkorange"/>
@@ -46,9 +46,9 @@
 
 ---
 
-## 📦 Download ZIP
+##  DOWNLOAD ZIP
 <p align="center">
-  <a href="https://github.com/Vinpink2/JUNE-X/archive/refs/heads/main.zip" target="_blank">
+  <a href="https://github.com/Vinpink2/June_X_Ultra/archive/refs/heads/main.zip" target="_blank">
     <img alt="Download ZIP" src="https://img.shields.io/badge/DOWNLOAD%20ZIP-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=darkblue&color=darkgreen"/>
   </a>
 </p>
