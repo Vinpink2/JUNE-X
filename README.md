@@ -18,8 +18,8 @@
 
 > DEPLOY JUNE-X ULTRA
 <div align="center">    
-  <a href="https://auth-ivory-delta.vercel.app/">
-    <img src="https://img.shields.io/badge/Deploy%20June-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=darkblue&color=darkblue" alt="Deploy June-X"/>
+  <a href="https://dashboard.heroku.com/new?template=https://github.com/Vinpink2/June_X_Ultra">
+    <img src="https://img.shields.io/badge/Heroku%20Deploy-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=darkblue&color=purple" alt="Deploy June-X"/>
   </a>
 </div>
 
