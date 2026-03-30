@@ -53,28 +53,3 @@
   </a>
 </p>
 
----
-
-## 📝 How to Use
-1. **Download ZIP** or fork the repo.  
-2. **Pair your session** using code or QR.  
-3. **Deploy instantly** on free panels.  
-4. Start automating WhatsApp with **JUNE X**.  
-
----
-
-## 💡 Highlights
-- 🔒 Secure session handling  
-- 🌍 Works across multiple devices  
-- 🖥️ Simple deployment flow  
-- 🎯 Built for speed and reliability  
-
----
-
-## 🤝 Contributing
-Pull requests are welcome! For major changes, please open an issue first to discuss what you’d like to change.  
-
----
-
-## ⭐ Show Your Support
-If you like **JUNE X**, don’t forget to **star the repo** and share it with your friends.
