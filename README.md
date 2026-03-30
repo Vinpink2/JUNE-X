@@ -7,7 +7,7 @@
 </div> 
 
 <div align="center"> 
-  <img src="https://files.catbox.moe/pr5ynj.jpg" alt="JUNE X" height="300"> 
+  <img src="https://files.catbox.moe/xqik1s.jpg" alt="JUNE X" height="200"> 
 </div>
 
 ---
