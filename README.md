@@ -27,20 +27,20 @@
 
 > JUNE-X ULTRA SESSION PAIRING
 <p align="center">
-  <a href="https://j-p2-96e2148f182f.herokuapp.com/pair" target="_blank">
+  <a href="https://pair-ultra-ae57185f6550.herokuapp.com/" target="_blank">
     <img alt="Pair Code 1" src="https://img.shields.io/badge/PAIR%20CODE%201-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=darkorange&color=darkorange"/>
   </a>
 </p>
 
 <p align="center">
-  <a href="https://june-p-d2fd05621613.herokuapp.com" target="_blank">
+  <a href="https://pair-ultra-ae57185f6550.herokuapp.com/pair" target="_blank">
     <img alt="Pair Code 2" src="https://img.shields.io/badge/PAIR%20CODE%202-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=darkorange&color=darkorange"/>
   </a>
 </p>
 
 <p align="center">  
-  <a href="https://j-p2-96e2148f182f.herokuapp.com" target="_blank">
-    <img alt="Pair Code 3" src="https://img.shields.io/badge/PAIR%20CODE%203-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=darkorange&color=darkorange"/>
+  <a href="https://pair-ultra-ae57185f6550.herokuapp.com/qr" target="_blank">
+    <img alt="Qr Code 1" src="https://img.shields.io/badge/PAIR%20CODE%203-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=darkorange&color=darkorange"/>
   </a>
 </p>
 
