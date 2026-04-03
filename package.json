@@ -1,7 +1,7 @@
 {
     "name": "June-X Ultra",
-    "version": "2.8.1",
-    "description": "WhatsApp MD-Style Multi-Command Bot with Baileys",
+    "version": "2.8.0",
+    "description": "WhatsApp MD-Style Multi-Command Bot by Supreme",
     "main": "index.js",
     "type": "commonjs",
     "scripts": {
@@ -11,10 +11,10 @@
     },
     "keywords": [
         "whatsapp bot",
-        "Bot Mini",
+        "June",
         "bot",
         "baileys",
-        "md"
+        "library"
     ],
     "author": "Agent of Dusk",
     "license": "MIT",
@@ -27,8 +27,8 @@
         "@bochilteam/scraper-facebook": "^5.0.0",
         "@bochilteam/scraper-tiktok": "^5.0.0",
         "@vitalets/google-translate-api": "^9.2.1",
-        "@whiskeysockets/baileys": "^v7.0.0-rc.9",
-        "adm-zip": "^0.5.10",
+        "@whiskeysockets/baileys": "^7.0.0-rc.9",
+        "adm-zip": "^0.5.16",
         "awesome-phonenumber": "^7.8.0",
         "axios": "^1.7.2",
         "canvas": "^3.2.1",
@@ -44,10 +44,12 @@
         "g-i-s": "^2.1.7",
         "gifted-btns": "*",
         "jimp": "^1.6.0",
+        "js-confuser": "^1.0.9",
         "lolcatjs": "^2.4.3",
         "lottie-node": "^2.0.0",
         "lottie-web": "^5.13.0",
         "mammoth": "^1.12.0",
+        "moment": "latest",
         "moment-timezone": "^0.5.48",
         "mumaker": "^2.0.0",
         "node-cache": "^5.1.2",
@@ -60,7 +62,6 @@
         "qrcode-terminal": "^0.12.0",
         "ruhend-scraper": "^9.0.8",
         "webp-converter": "^2.3.3",
-        "xlsx": "^0.18.5",
         "yt-search": "^2.13.1",
         "ytdl-core": "^4.11.5"
     },
