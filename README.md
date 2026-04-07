@@ -18,7 +18,7 @@
 
 > DEPLOY 𝗝𝗨𝗡𝗘-𝗫 𝗨𝗟𝗧𝗥𝗔
 <div align="center">    
-  <a href="https://dashboard.heroku.com/new?template=https://github.com/Vinpink2/June_X_Ultra">
+  <a href="https://dashboard.heroku.com/new?template=https://github.com/Vinpink2/June-Ultra">
     <img src="https://img.shields.io/badge/Heroku%20Deploy-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=darkblue&color=purple" alt="Deploy June-X"/>
   </a>
 </div>
