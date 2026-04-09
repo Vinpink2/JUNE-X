@@ -11,7 +11,7 @@
     },
     "keywords": [
         "whatsapp bot",
-        "June",
+        "June-Ultra",
         "bot",
         "baileys",
         "library"
@@ -19,13 +19,14 @@
     "author": "Agent of Dusk",
     "license": "MIT",
     "engines": {
-        "node": ">=20.0.0",
-        "npm": ">=10.0.0"
+        "node": ">=20.x",
+        "npm": ">=10.x"
     },
     "dependencies": {
         "@bochilteam/scraper": "^5.0.1",
         "@bochilteam/scraper-facebook": "^5.0.0",
         "@bochilteam/scraper-tiktok": "^5.0.0",
+        "@ffmpeg/ffmpeg": "^0.12.15",
         "@vitalets/google-translate-api": "^9.2.1",
         "@whiskeysockets/baileys": "^7.0.0-rc.9",
         "adm-zip": "^0.5.16",
