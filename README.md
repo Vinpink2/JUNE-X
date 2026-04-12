@@ -27,7 +27,7 @@
 
 > JUNE-X ULTRA SESSION PAIRING
 <p align="center">
-  <a href="https://pair-ultra-ae57185f6550.herokuapp.com/" target="_blank">
+  <a href="https://pair-ultra2-f09e9f671213.herokuapp.com/pair" target="_blank">
     <img alt="Pair Code 1" src="https://img.shields.io/badge/PAIR%20CODE%201-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=darkorange&color=darkorange"/>
   </a>
 </p>
