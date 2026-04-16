@@ -22,6 +22,7 @@
     <img src="https://img.shields.io/badge/Fork%20Repo-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=darkblue&color=darkblue" alt="Deploy June-X"/>
   </a>
 </div>
+
 ---
 
 > DEPLOY 𝗝𝗨𝗡𝗘-𝗫 𝗨𝗟𝗧𝗥𝗔
