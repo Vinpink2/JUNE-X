@@ -2,7 +2,7 @@
   "name": "June X Ultra",
   "description": "June X Ultra - WhatsApp MD Multi-Device Bot powered by Baileys",
   "repository": "https://github.com/Vinpink2/June-Ultra",
-  "logo": "https://i.ibb.co/zWV08LSJ/upload-1775947525459-c90c1b6a-jpg.jpg",
+  "logo": "",
   "keywords": ["whatsapp", "baileys", "bot", "node", "md", "june-ultra"],
   "stack": "heroku-24",
   "buildpacks": [
