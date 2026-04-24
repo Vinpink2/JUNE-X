@@ -28,7 +28,7 @@
 > DEPLOY 𝗝𝗨𝗡𝗘-𝗫 𝗨𝗟𝗧𝗥𝗔
 <div align="center">    
   <a href="https://dashboard.heroku.com/new?template=https://github.com/Vinpink2/June-Ultra">
-    <img src="https://img.shields.io/badge/Heroku%20Deploy-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=darkblue&color=purple" alt="Deploy June-X"/>
+    <img src="https://img.shields.io/badge/Heroku%20Deploy-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=purple&color=purple" alt="Deploy June-X"/>
   </a>
 </div>
 
@@ -58,7 +58,7 @@
 > 𝗝𝗨𝗡𝗘-𝗫 𝗨𝗟𝗧𝗥𝗔 ZIP
 <p align="center">
   <a href="https://github.com/Vinpink2/June_X_Ultra/archive/refs/heads/main.zip" target="_blank">
-    <img alt="Download ZIP" src="https://img.shields.io/badge/DOWNLOAD%20ZIP-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=darkblue&color=darkgreen"/>
+    <img alt="Download ZIP" src="https://img.shields.io/badge/DOWNLOAD%20ZIP-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=darkred&color=darkred"/>
   </a>
 </p>
 
