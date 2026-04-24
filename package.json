@@ -1,6 +1,6 @@
 {
-    "name": "June-X Ultra",
-    "version": "2.8.0",
+    "name": "June-Ultra",
+    "version": "2.8.2",
     "description": "WhatsApp MD-Style Multi-Command Bot by Supreme",
     "main": "index.js",
     "type": "commonjs",
@@ -19,8 +19,8 @@
     "author": "Agent of Dusk",
     "license": "MIT",
     "engines": {
-        "node": ">=20.x",
-        "npm": ">=10.x"
+        "node": ">= 20.x",
+        "npm": ">= 10.x"
     },
     "dependencies": {
         "@bochilteam/scraper": "^5.0.1",
