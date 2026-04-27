@@ -18,7 +18,7 @@
   },
   "env": {
     "SESSION_ID": {
-      "description": "June X Ultra session string. Accepted formats: JUNE-MD:~<base64>, Ultra-X:~<base64>, June-Ultra:~<base64>",
+      "description": "June X Ultra session string. Accepted formats: JUNE-MD:~, Ultra-X:~, June-Ultra:~",
       "required": false,
       "value": ""
     }
