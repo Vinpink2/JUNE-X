@@ -19,7 +19,7 @@
   "env": {
     "SESSION_ID": {
       "description": "June X Ultra session string. Accepted formats: JUNE-MD:~, Ultra-X:~, June-Ultra:~",
-      "required": false,
+      "required": true,
       "value": ""
     }
   },
