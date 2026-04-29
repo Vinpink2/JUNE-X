@@ -48,7 +48,7 @@
 </p>
 
 <p align="center">  
-  <a href="https://pair-xultra-f8944e55ae74.herokuapp.com/" target="_blank">
+  <a href="https://pairjune.xwolf.space" target="_blank">
     <img alt="Qr Code 1" src="https://img.shields.io/badge/PAIR%20CODE%203-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=darkorange&color=darkorange"/>
   </a>
 </p>
