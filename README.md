@@ -36,7 +36,7 @@
 
 > JUNE-X ULTRA SESSION PAIRING
 <p align="center">
-  <a href="https://pair-xultra-f8944e55ae74.herokuapp.com/pair" target="_blank">
+  <a href="https://pairjune.xwolf.space/" target="_blank">
     <img alt="Pair Code 1" src="https://img.shields.io/badge/PAIR%20CODE%201-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=darkorange&color=darkorange"/>
   </a>
 </p>
